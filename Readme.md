@@ -44,18 +44,12 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sarwan-singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarwan-singh&show_icons=true&hide_border=true&theme=dracula" />
-    <p></p>
+  <img align="right" alt="sarwan-singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwan-singh&layout=compact" />
 </details>
 
 
 <br />
 
-<details>
-<summary>:zap: Most Used Languages</summary>
-
-  <img align="left" alt="sarwan-singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwan-singh&layout=compact" />
-    <p></p>
-</details>
 
 [website]: https://sarwan-singh.github.io/
 [codechef]: https://www.codechef.com/users/smurf_hunter
