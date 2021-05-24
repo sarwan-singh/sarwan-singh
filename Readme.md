@@ -16,7 +16,7 @@
 [<img align="left" alt="Sarwan Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sarwan Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
 [<img align="left" alt="Sarwan Singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="Sarwan Singh | Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100018135162956" />][facebook]
+[<img align="left" alt="Sarwan Singh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 <br />
 
