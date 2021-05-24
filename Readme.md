@@ -44,19 +44,17 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sarwan-singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarwan-singh&show_icons=true&hide_border=true&theme=dracula" />
-
+    <p></p>
 </details>
 
 
 <br />
-<br />
-
----
 
 <details>
 <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="sarwan-singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwan-singh&layout=compact" />
 
+  <img align="left" alt="sarwan-singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwan-singh&layout=compact" />
+    <p></p>
 </details>
 
 [website]: https://sarwan-singh.github.io/
