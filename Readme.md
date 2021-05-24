@@ -58,7 +58,7 @@
 
   <br />
   <br />
-
+<summary>:zap: Most Used Languages</summary>
   <img align="left" alt="sarwan-singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwan-singh&layout=compact" />
   
 
