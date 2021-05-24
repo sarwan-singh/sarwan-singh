@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=sarwan-singh.github.io&style=for-the-badge&url=https%3A%2F%2Fsarwan-singh.github.io)](https://sarwan-singh.github.io/)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=sarwan-singh&color=green)
 
 ## I'm a Full Stack Developer, Mobile Apps Developer and Competitive Programmer!!
 
