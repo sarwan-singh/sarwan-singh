@@ -9,7 +9,7 @@
 - 🔭 [CodeChef][codechef] - 1844! : 4 stars
 - 🌱 [Codeforces][codeforces] - 1484! : Specialist
 - 👯 Creating wonderful projects
-- 🥅 2021 Goals: LET US C 
+- 🥅 2022 Goals: LET US C 
 - ⚡ Fun fact: I play CSGO :)
 
 ### Connect with me:
